@@ -1,0 +1,11 @@
+conda create -n project python==3.6.9
+conda activate project
+
+D:
+
+cd D:\2020 Projects\2020 AI Working Projects\Youtube_TranscriptSummarzer\Youtube_transcript_summarizer\server
+
+pip install -r requirements.txt
+
+python app.py
+
